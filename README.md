@@ -1,2 +1,2 @@
-# my-first-repository
-My first github project by eckovation
+# My-FirstRepository
+My first GitHub project by Eckovation
